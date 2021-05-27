@@ -7,7 +7,7 @@ http call, parse/deserialise json and use sensor data
 this is the new repo that will see all the chages :P
 
 # Status
-the project is work in progress, Expected to get first alpha working by Tuesday 31 March 2021
+the project is work in progress, Expected to get first alpha working by Tuesday 31 November 2021
 
 
 # Focus
